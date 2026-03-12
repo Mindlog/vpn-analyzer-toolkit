@@ -1,4 +1,6 @@
-﻿# VPN Analyzer Toolkit
+﻿![GitHub release](https://img.shields.io/github/v/release/Mindlog/vpn-analyzer-toolkit)
+
+# VPN Analyzer Toolkit
 
 **vpn-analyzer-toolkit** is an open-source **python vpn toolkit** for running a practical **VPN test** workflow from the command line. It helps users inspect public IP details, perform a **VPN speed test**, and run a basic DNS leak check for day-to-day privacy validation.
 
